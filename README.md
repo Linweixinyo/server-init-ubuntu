@@ -1,6 +1,7 @@
 # server-init
 
 Ubuntu 24.04 容器宿主机初始化脚本。
+fork：https://cnb.cool/ConwayCell/server-init-ubuntu
 
 ## 使用前准备
 
